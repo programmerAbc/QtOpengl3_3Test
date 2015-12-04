@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/pic">
+        <file alias="teximage">texture.jpg</file>
+    </qresource>
+</RCC>
